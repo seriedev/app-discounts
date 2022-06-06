@@ -7,8 +7,8 @@
 
 const app = {
   app_id: 126420,
-  title: 'My Awesome E-Com Plus App',
-  slug: 'my-awesome-app',
+  title: 'Campanhas e descontos SERI.E',
+  slug: 'campanhas-e-descontos-serie',
   type: 'external',
   state: 'active',
   authentication: true,
